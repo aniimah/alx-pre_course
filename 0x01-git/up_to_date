@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull
+=======
+git fetch origin master
+>>>>>>> origin/update_script
